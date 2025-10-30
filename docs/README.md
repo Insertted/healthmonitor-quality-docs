@@ -10,3 +10,10 @@
 2. [**quality-reqirements.md**](/workspaces/healthmonitor-quality-docs/docs/requirements/quality-requirements.md)
 3. [**dashboard-descrition.md**](monitoring/dashboard-description.md)
 4. [**incident-template**](incidents/incident-template.md)
+
+
+### Контакты
+
+| Должность | Имя | Email |
+|-----------|-----|-------|
+|Главный разработчик | Андрей | testexample@gmail.com |
